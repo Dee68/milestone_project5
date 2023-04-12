@@ -72,7 +72,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'lamad.wsgi.application'
 
-
+AUTH_USER_MODEL = 'account.CustomUser'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 

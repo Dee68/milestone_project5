@@ -23,7 +23,7 @@ li > a{
 
 a:hover{
     cursor: pointer;
-    color: #dc3545;
+    color: #35dc3b;
 }
 
 .bg-black {
@@ -96,7 +96,7 @@ button.navbar-toggler{
     background: #42a235;
     color: white;
     min-width: 260px;
-    font-size: 180%;
+    font-size: 140%;
 }
 
 .btn-black {
@@ -128,7 +128,7 @@ button.navbar-toggler{
 } */
 
 .overlay{
-    background-color: rgba(14, 105, 103, 0.8);
+    background-color: rgba(226, 235, 229, 0.6);
     border-radius: 5px;
     text-align: center;
     padding: 20px;
@@ -143,13 +143,13 @@ button.navbar-toggler{
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: rgb(19, 88, 12);
 
 }
 
 .cta-h1{
     font-size: 28px;
-    color: white;
+    color: rgb(19, 88, 12);
     margin-top: 15px;
 }
 
@@ -164,7 +164,7 @@ button.navbar-toggler{
 
 .features-cont{
     height: 120px;
-    background-color: #0e6967;
+    background-color: #3a3a3a;
     margin-bottom: 60px;
 }
 
@@ -178,9 +178,9 @@ button.navbar-toggler{
 
 .div-col{
     text-align: center;
-    color: white;
+    color: #7ec37d;
     border-bottom: solid white 1px;
-    background-color: #0e6967;
+    background-color: #3a3a3a;
 }
 
 .feat-icon{
